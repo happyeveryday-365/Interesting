@@ -18,7 +18,7 @@
 ## 安装
 解压后有一个安装教程：
 
-<img width="500" height="274" alt="图片" src="https://github.com/user-attachments/assets/ed169904-61d6-4cd7-b644-05d3aa7c7c36" />
+<img width="500" height="270" alt="图片" src="https://github.com/user-attachments/assets/0a77aed0-c954-467b-87a7-1928d2107552" />
 
 
 
